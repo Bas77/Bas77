@@ -1,26 +1,38 @@
 # Hi, I'm Sebastian 👋
 Welcome to my GitHub! I'm a Computer Science student passionate about frontend development, AI, and ACG culture.
 
--  Studying at: BINUS University
 
 ### Contact Me
-<p align="center">
-  <a href="mailto:youremail@gmail.com">
+<p align="left">
+  <a href="mailto:sebastianramli77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="mailto:youremail@outlook.com">
+  <a href="mailto:dominikus.ramli@binus.ac.id">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
 </p>
 
 ### Languages
-![image](https://github.com/user-attachments/assets/8ce5b336-14ca-481a-be7c-d604b0457655) ![image](https://github.com/user-attachments/assets/88400e6d-8325-499f-a364-cf86a9c51287)
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+</a>
 
 ### Frameworks
-![image](https://github.com/user-attachments/assets/e9f2a67d-1134-49a5-9e7a-f337d3a4b4df)
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+</a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
+</a>
+
 
 ### Databases
-![image](https://github.com/user-attachments/assets/7cde2b39-babd-411d-b797-fbfde933bd0b)
+<a href="https://supabase.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase" />
+</a>
 
 
 
