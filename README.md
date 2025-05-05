@@ -2,7 +2,17 @@
 Welcome to my GitHub! I'm a Computer Science student passionate about frontend development, AI, and ACG culture.
 
 -  Studying at: BINUS University
-  
+
+### Contact Me
+<p align="center">
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="mailto:youremail@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+</p>
+
 ### Languages
 ![image](https://github.com/user-attachments/assets/8ce5b336-14ca-481a-be7c-d604b0457655) ![image](https://github.com/user-attachments/assets/88400e6d-8325-499f-a364-cf86a9c51287)
 
