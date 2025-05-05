@@ -1,9 +1,16 @@
 # Hi, I'm Sebastian 👋
 Welcome to my GitHub! I'm a Computer Science student passionate about frontend development, AI, and ACG culture.
 
+-  Studying at: BINUS University
+  
 ### Languages
 ![image](https://github.com/user-attachments/assets/8ce5b336-14ca-481a-be7c-d604b0457655) ![image](https://github.com/user-attachments/assets/88400e6d-8325-499f-a364-cf86a9c51287)
 
+### Frameworks
+![image](https://github.com/user-attachments/assets/e9f2a67d-1134-49a5-9e7a-f337d3a4b4df)
 
--  Studying at: BINUS University
+### Databases
+![image](https://github.com/user-attachments/assets/7cde2b39-babd-411d-b797-fbfde933bd0b)
+
+
 
