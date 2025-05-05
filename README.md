@@ -1,5 +1,5 @@
 # Hi, I'm Sebastian 👋
-Welcome to my GitHub! I'm a Computer Science student passionate about frontend development, AI, and ACG culture.
+Welcome to my GitHub! I'm a Computer Science student passionate about AI and ACG culture.
 
 
 ### Contact Me
