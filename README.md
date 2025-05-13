@@ -1,4 +1,4 @@
-# Hi, I'm Sebastian 👋
+# Hello! I'm Sebastian 👋
 Welcome to my GitHub! I'm a Computer Science student passionate about AI and ACG culture.
 
 
